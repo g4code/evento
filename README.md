@@ -1,0 +1,4 @@
+evento
+======
+
+Observer pattern implementation
