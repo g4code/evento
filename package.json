@@ -1,6 +1,6 @@
 {
   "name": "evento",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Observer pattern implementation",
   "main": "./lib/evento.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gomboc/evento"
+    "url": "git://github.com/g4code/evento"
   },
   "keywords": [
     "observer",
@@ -18,7 +18,7 @@
   "author": "Drasko Gomboc <drasko.gomboc@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gomboc/evento/issues"
+    "url": "https://github.com/g4code/evento/issues"
   },
   "devDependencies": {
     "mocha": "*",
