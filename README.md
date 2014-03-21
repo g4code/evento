@@ -3,6 +3,8 @@ evento
 
 > Observer pattern implementation - [nodejs](http://nodejs.org) library
 
+[![NPM](https://nodei.co/npm/evento.png)](https://nodei.co/npm/evento/)
+
 ## Install
 
     $ npm install evento
