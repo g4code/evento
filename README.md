@@ -8,6 +8,8 @@ evento
 ## Install
 
     $ npm install evento
+    
+    $ bower install evento
 
 ## Usage
 
