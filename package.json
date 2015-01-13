@@ -1,6 +1,6 @@
 {
   "name": "evento",
-  "version": "1.1.0",
+  "version": "1.4.0",
   "description": "Publish–subscribe pattern implementation",
   "main": "./lib/evento.js",
   "scripts": {
